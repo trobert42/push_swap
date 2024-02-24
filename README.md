@@ -17,4 +17,5 @@ The Push_swap project involves sorting an array of integers using two stacks and
   ./push_swap [list of numbers]
 ```
 
-
+## 💬
+Big thanks to Nicolas for helping me understand the LIS (Longest Increasing Subsequence), on which i based my sorting code on it o/ 
